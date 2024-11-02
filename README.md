@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm clixzy</h1>
-<h3 align="center">A low-level coding Guy incheats and cracks.</h3>
+<h3 align="center">A low-level coding Guy in cheats and cracks.</h3>
 
 <p align="left"> <a href="https://twitter.com/od8m_" target="blank"><img src="https://img.shields.io/twitter/follow/od8m_?logo=twitter&style=for-the-badge" alt="od8m_" /></a> </p>
 
